@@ -3,7 +3,9 @@ My response to the Codecademy's C++ challenge announced on Nov 6th https://www.y
 
 # description of the files
 initials.cpp: the original challenge, print my initials without using loops, arrays, functions...
+
 anytext.cpp: print any text in the input string. If a character's block is not defined, it will print a blank block instead.
+
 
 # how to compile and run initials.cpp
 ```
